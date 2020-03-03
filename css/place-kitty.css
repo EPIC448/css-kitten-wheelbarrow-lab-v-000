@@ -20,7 +20,7 @@
 
 #basket img {
   position: absolute;
-  z-index: 5;
+  z-index: 2;
   top: 291px;
   left: 319px;
 }
